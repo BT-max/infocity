@@ -1,8 +1,8 @@
 # Main Title
 main:
   header:
-    title : "Graysx Theme" # Title Text
-    description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
+    title : "" # Title Text
+    description : "" # Title Desc
     button:
       text: "Learn More" # Button Text
       url: "#about" # Button URL
@@ -10,23 +10,44 @@ main:
 # About
 about:
   title: "About us"
-  desc: "Max Ducim Qua Labo Pa Adre Nam Ased Di Ullam Ess Num Minim Quorecu Re Iur Ipsam Autemo Autem Max Iurer Ut Enim Praese Ips Fugia Ne Dig Assumen Cul Ipsum Velit Magna Inl Odio Enimodi Nonve Sunti Tem Incidu Velqui Lauda Assume Volupt Nih Es Autem Officia Culpa Impedit Harum Blandi Si Quis Dol Facilis Verodo Tot Quib Quoden"
+  desc: "Spread over 1.60 acres of land MIPPL has a development potential of over 1.5 LAKH sq.ft.
+MIPPL comprises of 2 towers, 6 storeys each. Thriving with advance high-end lobbies and extensive floor plates up to 15,000 sq.ft.
+Not only does MIPPL has its location advantage, but also offers world-class construction technology.
+With easy access to 1.3 Lakh sq.ft of Mimec High Street in the same periphery, MIPPL offers independent office blocks combined with leisure and entertainment activities.
+MIPPL, with its state of the art infrastructure and a lot of open spaces, cultivates a serene business environment where innovation and ideas can flourish.
+The MIPPL has round the clock surveillance, monitored by well-qualified professional agencies for managing and maintaining the project. "
   button:
     enable: true
     text: "Button"
     url: "#"
-  image: "assets/img/ipad.png"
+  image: ""
 
 projects:
-  card1:
-    title: "Graysx"
+  card1:  # Location
+    title: "Location"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/bg-masthead.jpg"
-  card2:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-01.jpg"
-  card3:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-02.jpg"
+    img: "assets/img/card1.jpg"
+  card2:  # Inside floor pictures with office space seating information, carpet area, super area and number of floors.
+    title: "Carpet Area"
+    text: "Excepteur sint dolor excepteur amet nulla aliquip commodo duis elit eu."
+    img: "assets/img/card2.jpg"
+  card3:  # Outside back photo with indoor and outdoor parking information; indoor and outparking numbers
+    title: "Parking"
+    text: "Magna elit incididunt commodo ea."
+    img: "assets/img/card3.jpg"
+  card4:  # good side view pic: mordern architecture, build quality and materials
+    title: "Modern Architecture"
+    text: "In proident reprehenderit sit ea cupidatat consectetur nulla esse tempor."
+    img: "assets/img/card4.jpg"
+  card5:  # lift: electricity backup, number of lifts
+    title: "Lift"
+    text: "Reprehenderit mollit ipsum aliqua irure."
+    img: "assets/img/card5.jpg"
+  card6:  # stairs: emergency exit, fire safety
+    title: "Stairs"
+    text: "Culpa nulla sint mollit minim."
+    img: "assets/img/card6.jpg"
+  card7:  # views: green pastures
+    title: "Pristine View of green pastures"
+    text: "Sint excepteur exercitation quis sunt cillum esse voluptate pariatur aliquip dolore adipisicing laborum."
+    img: "assets/img/card7.jpg"
